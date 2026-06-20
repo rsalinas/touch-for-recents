@@ -1,0 +1,4 @@
+# Needs system libs: cairo + gobject-introspection (girepository-1.0)
+#   sudo apt install libcairo2-dev libgirepository1.0-dev gir1.2-gtk-3.0
+# Without pip: sudo apt install python3-gi gir1.2-gtk-3.0
+PyGObject<3.50
